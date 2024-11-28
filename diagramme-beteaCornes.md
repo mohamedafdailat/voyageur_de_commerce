@@ -1,6 +1,6 @@
 # Diagramme des bêtes à cornes
 
-Voici un diagramme des bêtes à cornes pour votre application :
+Voici le diagramme des bêtes à cornes de l'application :
 
 ```mermaid
 graph TD
